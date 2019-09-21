@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Captain's Log: First Entry"
-date: 2019-03-28 00:00:00 +0200
 category: life
 ---
 
