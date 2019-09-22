@@ -17,10 +17,18 @@ That was a rough few hours, but I managed. A few books ago ([The Obstacle is the
 To infinity and beyond, godspeed, may the force be with you, etc, etc...
 
 [santiago-chile]: https://en.wikipedia.org/wiki/Santiago "Santiago, Chile"
+{: target="_blank" }
 [ry-uroboros]: https://www.instagram.com/explore/tags/ryuroboros/ "Remote Year: Uroboros"
+{: target="_blank" }
 [uroboros]: https://es.wikipedia.org/wiki/Ur%C3%B3boros "Uroboros"
+{: target="_blank" }
 [cowork-latam]: https://www.coworklatam.com/sedes-coworking/monjitas-santiago-centro/ "Co-Work Latam"
+{: target="_blank" }
 [startup-chile]: http://www.startupchile.org/ "Start-Up Chile"
+{: target="_blank" }
 [the-obstacle-is-the-way]: https://www.amazon.com/dp/B00G3L1B8K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 "The Obstacle is the Way"
+{: target="_blank" }
 [underagga]: https://www.undurraga.cl/tours/ "Underagga"
+{: target="_blank" }
 [chilean-patagonia]: https://travel.usnews.com/Chilean_Patagonia_Argentina/ "Chilean Patagonia"
+{: target="_blank" }
