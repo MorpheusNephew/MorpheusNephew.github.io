@@ -56,3 +56,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+images_url: https://d1ncexiyseyu6t.cloudfront.net/media/images/
