@@ -21,4 +21,4 @@ My name is Jelani Jackson and I am a(n):
 
 I'm always excited and looking for new opportunities that will stretch my mental capacity in a variety of ways.
 
-[patagonia]: /img/me-patagonia.jpg
+[patagonia]: {{site.images_url}}me-patagonia.jpg
