@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+# \#RiskHappy: Living Life to the Fullest
+
+![Skydiving][skydiving]
+
+
+[skydiving]: {{ site.images_url }}/skydiving.jpeg "Skydiving"
