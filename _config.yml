@@ -22,7 +22,7 @@ title: Jelani The...
 author: Jelani Jackson
 email: jelani.t.jackson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is me sharing insights from my travels, work, and life
+  Sharing insights from my travels, work, and life
   experiences. Hopefully I can help others in their lives with what
   I share and in sharing I can learn more about my blind spots.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -56,3 +56,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+images_url: https://d1ncexiyseyu6t.cloudfront.net/media/images
