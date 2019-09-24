@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# \#RiskHappy: Living Life to the Fullest
+## \#RiskHappy: Living Life to the Fullest
 
 ![Skydiving][skydiving]
 
