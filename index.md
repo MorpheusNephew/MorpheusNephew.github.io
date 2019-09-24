@@ -7,7 +7,4 @@ layout: home
 
 ![Skydiving][skydiving]
 
-### Living life to the fullest
-
-
 [skydiving]: {{ site.images_url }}/skydiving.jpeg "Living life to the fullest"
