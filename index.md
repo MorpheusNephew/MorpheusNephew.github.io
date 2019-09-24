@@ -5,9 +5,9 @@
 layout: home
 ---
 
-## \#RiskHappy: Living Life to the Fullest
-
 ![Skydiving][skydiving]
 
+### Living life to the fullest
 
-[skydiving]: {{ site.images_url }}/skydiving.jpeg "Skydiving"
+
+[skydiving]: {{ site.images_url }}/skydiving.jpeg "Living life to the fullest"
