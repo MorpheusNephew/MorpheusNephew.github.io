@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jelani The...
+repository: MorpheusNephew/MorpheusNephew.github.io
 author:
   name: "Jelani Jackson"
   avatar: "https://media.jelanithe.com/media/images/me-patagonia.jpg"
